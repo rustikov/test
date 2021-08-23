@@ -1,0 +1,35 @@
+{
+  "name": "@therao/ui-components",
+  "version": "0.0.1",
+  "description": "UI web components by RAO",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rustikov/test.git"
+  },
+  "keywords": [
+    "material",
+    "design",
+    "ui",
+    "reusable",
+    "components",
+    "vue"
+  ],
+  "author": "Alex R",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rustikov/test/issues"
+  },
+  "homepage": "https://github.com/rustikov/test#readme",
+  "dependencies": {
+    "laravel-mix": "^6.0.28"
+  },
+  "devDependencies": {
+    "resolve-url-loader": "4.0.0",
+    "sass": "^1.38.1",
+    "sass-loader": "12.1.0"
+  }
+}
